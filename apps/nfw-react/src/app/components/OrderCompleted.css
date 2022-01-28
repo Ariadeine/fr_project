@@ -1,0 +1,15 @@
+.orderCompleted__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1024px;
+  width: 80%;
+  margin: 70px auto 0;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.orderCompleted__image {
+  max-height: 500px;
+}
